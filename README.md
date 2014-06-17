@@ -44,7 +44,7 @@ require 'vendor/autoload.php';
 
 namespace XXX;
 
-use EBC\HttpClient\CreateTrait as HttpClientCreateTrait;
+use EBT\HttpClient\CreateTrait as HttpClientCreateTrait;
 use Guzzle\Http\Client as GuzzleHttpClient;
 
 class <HttpClient> {
