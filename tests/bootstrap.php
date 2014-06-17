@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is a part of the EBDate library.
+ * This file is a part of the HTTP Client library.
  *
  * (c) 2014 Ebidtech
  *
