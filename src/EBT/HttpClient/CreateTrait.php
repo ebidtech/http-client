@@ -1,14 +1,12 @@
 <?php
 
-/**
- * EB http client component, this trait avoids boiler plate code to create a guzzle client, without the need to extend
- * an class.
+/*
+ * This file is a part of the Dimensions library.
  *
- * LICENSE: [EMAILBIDDING_DESCRIPTION_LICENSE_HERE]
+ * (c) 2014 Ebidtech
  *
- * @author     Eduardo Oliveira <eduardo.oliveira@adclick.pt>
- * @copyright  2012-2013 Emailbidding
- * @license    [EMAILBIDDING_URL_LICENSE_HERE]
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
  */
 
 namespace EBT\HttpClient;
