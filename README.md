@@ -2,6 +2,8 @@
 
 Helper trait for creating HTTP Rest clients
 
+[![Latest Stable Version](https://poser.pugx.org/ebidtech/http-client/v/stable.png)](https://packagist.org/packages/ebidtech/http-client)
+
 ## Requirements ##
 
 * PHP >= 5.3
